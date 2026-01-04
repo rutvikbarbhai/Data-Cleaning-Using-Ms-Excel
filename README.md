@@ -15,8 +15,12 @@ The focus areas include:
 This project reflects industry-style Excel usage commonly required in operations, analytics, and product roles.
 
 ## <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" width="25px" style="vertical-align:text-bottom;"> Dataset File
-📎 Excel Workbook (Cleaned & Processed)
-[_Rutvik_Barbhai_-_225805222_-PlivoProdOps .xlsx](https://github.com/user-attachments/files/24402747/_Rutvik_Barbhai_-_225805222_-PlivoProdOps.xlsx)
+### Excel Workbook (Cleaned & Processed)
+
+<a href="https://github.com/user-attachments/files/24402747/_Rutvik_Barbhai_-_225805222_-PlivoProdOps.xlsx">
+  <img src="https://img.shields.io/badge/Dataset-Download-brightgreen?style=for-the-badge" />
+</a>
+
 
 
 ## 📊 Student Internship Eligibility Dataset (Sample Preview)
