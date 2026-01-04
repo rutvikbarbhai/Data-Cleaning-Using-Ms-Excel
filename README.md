@@ -1,5 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/1cdf5295-d760-42fb-9953-a14decfc6d0b" width="40"/> Data Cleaning & Analysis Using MS Excel Functions
-No-Code Data Cleaning, Standardization & Statistical Analysis Using Microsoft Excel on a Real-World Internship Eligibility Dataset
+ Hands-On No-Code Data Cleaning, Standardization & Statistical Analysis Using Microsoft Excel on a Real-World Internship Eligibility Dataset
 
 ##  <img src="https://github.com/user-attachments/assets/d91c2841-14ca-4283-a7fc-a93fc1e996af" height="22px" style="vertical-align:text-bottom;"> Project Overview
 
