@@ -19,7 +19,7 @@ This project reflects industry-style Excel usage commonly required in operations
 [_Rutvik_Barbhai_-_225805222_-PlivoProdOps .xlsx](https://github.com/user-attachments/files/24402747/_Rutvik_Barbhai_-_225805222_-PlivoProdOps.xlsx)
 
 
-## 📊 Student Internship Eligibility Dataset (Sample)
+## 📊 Student Internship Eligibility Dataset (Sample Preview)
 
 | Student ID | Name | Department | Std. Dept | T1 | T2 | T3 | Attendance | Application Date | Internship Pref | Assignment % | Weighted Score | Status |
 |-----------|------|------------|-----------|----|----|----|------------|------------------|------------------|--------------|----------------|--------|
